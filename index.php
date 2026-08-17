@@ -3,7 +3,7 @@
 
 // Credentials supplied by the owner.
 const API_KEY = '8775289783:AAEJePDsbsGTNxv3hMr4IHsJYNyLToN33RU';
-$Dev = 6431894757;
+$Dev = 7575502917;
 
 // Basic runtime settings: do NOT disable file/network functions used by this bot.
 error_reporting(E_ALL);
