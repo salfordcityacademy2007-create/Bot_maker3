@@ -1,5 +1,5 @@
 <?php
-const API_KEY = '8775289783:AAGFlUfT1PdV4P0trFEnHb8JS-32bXnuElk';
+const API_KEY = '8775289783:AAEJePDsbsGTNxv3hMr4IHsJYNyLToN33RU';
 $domain = getenv('RAILWAY_PUBLIC_DOMAIN') ?: getenv('RAILWAY_STATIC_URL');
 if (!$domain) { fwrite(STDERR, "RAILWAY_PUBLIC_DOMAIN is not set\n"); exit(1); }
 if (!preg_match('~^https?://~', $domain)) $domain = 'https://' . $domain;
