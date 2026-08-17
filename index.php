@@ -2,7 +2,7 @@
 /* Standalone Railway build - Telegram bot */
 
 // Credentials supplied by the owner.
-const API_KEY = '8775289783:AAGFlUfT1PdV4P0trFEnHb8JS-32bXnuElk';
+const API_KEY = '8775289783:AAEJePDsbsGTNxv3hMr4IHsJYNyLToN33RU';
 $Dev = 7575502917;
 
 // Basic runtime settings: do NOT disable file/network functions used by this bot.
